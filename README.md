@@ -2,7 +2,13 @@
 
 toHaveProperty matcher for Jasmine (http://jasmine.github.io/)
 
-# How to use
+## Usage
+
+```
+npm install to-have-property --save-dev
+```
+
+## How to use
 
 ```javascript
 
