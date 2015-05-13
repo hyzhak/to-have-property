@@ -2,7 +2,7 @@
 
 toHaveProperty matcher for Jasmine (http://jasmine.github.io/)
 
-## Usage
+## Installation
 
 ```
 npm install to-have-property --save-dev
