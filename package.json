@@ -1,12 +1,9 @@
 {
-  "name": "toHaveProperty",
+  "name": "to-have-property",
   "version": "0.1.0",
   "description": "toHaveProperty matcher for Jasmine",
   "main": "index.js",
   "dependencies": {
-    "jasmine": "^2.3.1"
-  },
-  "devDependencies": {
     "jasmine": "^2.3.1"
   },
   "scripts": {

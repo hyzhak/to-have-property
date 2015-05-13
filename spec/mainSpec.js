@@ -10,18 +10,10 @@ describe('toHaveProperty matcher', function() {
 	});
 
 	it('should find property in object', function() {
-		var o = {
-			x: 10
-		};
-
-		expect(o).toHaveProperty('x');
+		expect({ x: 10 }).toHaveProperty('x');
 	});
 
 	it('should find property in object and check is it equal to value', function() {
-		var o = {
-			x: 123
-		};
-
-		expect(o).toHaveProperty('x', 123);
+		expect({ y: 123}).toHaveProperty('y', 123);
 	});
 });

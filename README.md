@@ -6,12 +6,12 @@ toHaveProperty matcher for Jasmine (http://jasmine.github.io/)
 
 ```javascript
 
-it('should have x', function() {
-  expect(obj).toHaveProperty('x');
+it('should find property in object', function() {
+    expect({ x: 10 }).toHaveProperty('x');
 });
 
-it('should have y eq to 10', function() {
-  expect(obj).toHaveProperty('y', 10);
+it('should find property in object and check is it equal to certain value', function() {
+    expect({ y: 123}).toHaveProperty('y', 123);
 });
 
 ```
