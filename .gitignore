@@ -1,3 +1,6 @@
 # Dev Env
 .idea
 toHaveProperty.iml
+
+
+node_modules
