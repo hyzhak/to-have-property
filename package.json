@@ -1,6 +1,6 @@
 {
   "name": "to-have-property",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "toHaveProperty matcher for Jasmine",
   "main": "index.js",
   "dependencies": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hyzhak/toHaveProperty.git"
+    "url": "https://github.com/hyzhak/to-have-property.git"
   },
   "keywords": [
     "matcher",
@@ -22,7 +22,7 @@
   "author": "Eugene Krevenets <ievgenii.krevenets@gmail.com> (hyzhak.github.io)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hyzhak/toHaveProperty/issues"
+    "url": "https://github.com/hyzhak/to-have-property/issues"
   },
-  "homepage": "https://github.com/hyzhak/toHaveProperty"
+  "homepage": "https://github.com/hyzhak/to-have-property"
 }
