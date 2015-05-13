@@ -1,4 +1,4 @@
-# toHaveProperty
+# toHaveProperty ![](https://img.shields.io/npm/v/to-have-property.svg)
 
 toHaveProperty matcher for Jasmine (http://jasmine.github.io/)
 
