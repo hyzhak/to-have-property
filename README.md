@@ -1,4 +1,4 @@
-# toHaveProperty ![](https://img.shields.io/npm/v/to-have-property.svg)
+# toHaveProperty [![npm](https://img.shields.io/npm/v/to-have-property.svg)](https://www.npmjs.com/package/to-have-property) [![Build Status](https://travis-ci.org/hyzhak/to-have-property.svg?branch=master)](https://travis-ci.org/hyzhak/to-have-property)
 
 toHaveProperty matcher for Jasmine (http://jasmine.github.io/)
 
