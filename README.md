@@ -12,6 +12,8 @@ npm install to-have-property --save-dev
 
 ```javascript
 
+require('to-have-property');
+
 it('should find property in object', function() {
     expect({ x: 10 }).toHaveProperty('x');
 });
