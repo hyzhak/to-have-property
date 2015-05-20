@@ -22,4 +22,13 @@ it('should find property in object and check is it equal to certain value', func
     expect({ y: 123}).toHaveProperty('y', 123);
 });
 
+it('should find properties in object and check are they equal to values', function() {
+	expect({ x: 1, y: 2, z: 3}).toHaveProperties({'x': 1, 'y': 2});
+});
+
+it('should find all properties in object', function() {
+    expect({ x: 1, y: 2, z: 3 }).toHaveProperties('x', 'y');
+});
+
+
 ```
