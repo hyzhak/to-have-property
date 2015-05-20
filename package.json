@@ -1,6 +1,6 @@
 {
   "name": "to-have-property",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "toHaveProperty matcher for Jasmine to check whether object has property or not.",
   "main": "index.js",
   "dependencies": {
