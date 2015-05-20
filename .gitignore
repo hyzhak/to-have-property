@@ -1,6 +1,6 @@
 # Dev Env
 .idea
 toHaveProperty.iml
-
+dist
 
 node_modules
