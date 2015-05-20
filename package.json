@@ -8,7 +8,7 @@
     "lodash": "^3.9.1"
   },
   "scripts": {
-    "prepublish": "mkdir dist && node_modules/.bin/browserify -d --bare ./lib/index.js > dist/index.js",
+    "prepublish": "rm -rf dist && mkdir dist && node_modules/.bin/browserify -d --bare ./lib/index.js > dist/index.js",
     "test": "node_modules/.bin/jasmine"
   },
   "repository": {
