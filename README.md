@@ -30,8 +30,8 @@ it('should find all properties in object', function() {
     expect({ x: 1, y: 2, z: 3 }).toHaveProperties('x', 'y');
 });
 
-## More
-[others Jasmine matchers and extensions](http://hyzhak.github.io/jasmine-extensions/)
-
 
 ```
+
+## More
+[others Jasmine matchers and extensions](http://hyzhak.github.io/jasmine-extensions/)
