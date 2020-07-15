@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "jasmine": "^2.3.1",
-    "lodash": "^3.9.1"
+    "lodash": "^4.17.19"
   },
   "scripts": {
     "prepublish": "rm -rf dist && mkdir dist && node_modules/.bin/browserify -d --bare ./lib/index.js > dist/index.js",
